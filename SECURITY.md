@@ -18,7 +18,7 @@ Wir nehmen Sicherheit sehr ernst. Wenn du eine Sicherheitslücke findest, melde 
 **NICHT** öffentlich über GitHub Issues melden!
 
 Stattdessen:
-1. Email an: security@derstr1k3r.com
+1. Discord Ticket: In unseren Discord Server
 2. Beschreibe die Schwachstelle detailliert
 3. Füge Proof-of-Concept hinzu (falls möglich)
 4. Warte auf unsere Antwort (innerhalb 48h)
