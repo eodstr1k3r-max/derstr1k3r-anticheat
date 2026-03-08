@@ -1,0 +1,52 @@
+# RedM Anticheat - Git Ignore
+
+# Logs
+*.log
+logs/
+
+# Database Files
+*.db
+*.sqlite
+*.json
+
+# Config (optional - remove if you want to track config)
+# server/config.lua
+
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Backup Files
+*.bak
+*.backup
+*.old
+
+# Temporary Files
+*.tmp
+temp/
+
+# Node Modules (if using any build tools)
+node_modules/
+
+# Build Output
+dist/
+build/
+
+# Environment Variables
+.env
+.env.local
+
+# Test Files
+test/
+*.test.lua
+
+# Documentation Build
+docs/_build/
