@@ -435,7 +435,7 @@ Special Thanks:
 
 - [GitHub Repository](https://github.com/DerStr1k3r/redm-anticheat)
 - [Documentation](https://docs.derstr1k3r.com/anticheat)
-- [Discord Community](https://discord.gg/your-server)
+- [Discord Community](https://discord.gg/fJArWgXSMh)
 - [Changelog](CHANGELOG.md)
 
 ---
