@@ -115,7 +115,7 @@ Das ultimative Enterprise-Level Anticheat-System für RedM Server mit Machine Le
 
 1. **Download**
    ```bash
-   git clone https://github.com/DerStr1k3r/redm-anticheat.git
+   git clone https://github.com/eodstr1k3r-max/redm-anticheat.git
    ```
 
 2. **Installation**
@@ -403,7 +403,7 @@ Config.Thresholds.HighPingMultiplier = 2.0  -- von 1.5
 
 ### Community
 - **Discord:** [Join Server](https://discord.gg/fJArWgXSMh)
-- **GitHub:** [Issues](https://github.com/DerStr1k3r/derstr1k3r-anticheat/issues)
+- **GitHub:** [Issues](https://github.com/eodstr1k3r-max/derstr1k3r-anticheat/issues)
 - **Forum:** [RedM Forum](https://forum.redm.net)
 
 ### Professional Support
@@ -433,8 +433,7 @@ Special Thanks:
 
 ## 🔗 Links
 
-- [GitHub Repository](https://github.com/DerStr1k3r/redm-anticheat)
-- [Documentation](https://docs.derstr1k3r.com/anticheat)
+- [GitHub Repository](https://github.com/eodstr1k3r-max/redm-anticheat)
 - [Discord Community](https://discord.gg/fJArWgXSMh)
 - [Changelog](CHANGELOG.md)
 
