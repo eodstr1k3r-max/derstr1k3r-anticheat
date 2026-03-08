@@ -402,12 +402,11 @@ Config.Thresholds.HighPingMultiplier = 2.0  -- von 1.5
 ## 🤝 Support
 
 ### Community
-- **Discord:** [Join Server](https://discord.gg/your-server)
-- **GitHub:** [Issues](https://github.com/DerStr1k3r/redm-anticheat/issues)
+- **Discord:** [Join Server](https://discord.gg/fJArWgXSMh)
+- **GitHub:** [Issues](https://github.com/DerStr1k3r/derstr1k3r-anticheat/issues)
 - **Forum:** [RedM Forum](https://forum.redm.net)
 
 ### Professional Support
-- **Email:** support@derstr1k3r.com
 - **Custom Development:** Verfügbar
 - **Server Setup:** Verfügbar
 
